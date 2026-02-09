@@ -20,7 +20,7 @@
 >
 > 被 Netcraft 同步到 Google Safe Browsing 标记为钓鱼网站
 >
-> 被 Netcraft 投诉到 Cloudflare 标记为钓鱼网站, 无法正常 pull 镜像
+> 被 Netcraft 投诉到 Cloudflare 标记为钓鱼网站, 无法正常 pull 镜像 
 >
 > 收到律师函
 
